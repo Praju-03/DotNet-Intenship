@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "_23July2026.Controllers.ProductController",
+    "Method": "Index",
+    "RelativePath": "api/Product",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
